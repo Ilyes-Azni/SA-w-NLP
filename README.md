@@ -17,3 +17,29 @@ Ce projet est une lecture seulement, sous forme de jupyter notebook. Servez vous
 Bonne lecture ;) ! a + pour de nouveaux projets, j'essaierai d'en upload plus souvent, même les plus inutiles.
 
 PS : si le .ipynb n'apparaît pas, pensez à passer par nbviewer.org et copy paste l'url du notebook
+
+J'ai exporter le notebook avec les output complet de mon dataset, autant dire que ça fait une longue page, j'uploaderai une version raccourcie du notebook sous peu.
+
+## // English version // 
+
+Sentiment Analysis using NLP
+
+This project is part of my data science/data analysis portfolio. It's not the first one I've done, but it's the first one I'm posting, although as of today (March 11, 2023) it's not finished unlike the others.
+
+Anyway...
+
+What is sentiment analysis? Well, good question. I had this discussion with my fiancée and put like that, we're not really talking about the revolution of the century... But let's explain it anyway.
+
+# Sentiment Analysis
+
+Sentiment analysis is a way to define the overall tone of a speech. This type of analysis allows, among other things, to understand the shortcomings of a business or other. In my case (I study education sciences), I would use this approach more in the context of my thesis, which deals with the use of social media in education. Such an analysis would allow, among an x sample of teachers, how many percentages of them are in favor of using social media in their teaching and vice versa. In short, a very interesting NLP technique for the humanities in general.
+
+In the case of this project, we identify a textual dataset that deals with cinema... I won't say more.
+
+This project is read-only in the form of a Jupyter Notebook. Feel free to use the code if you want!
+
+Happy reading! Stay tuned for new projects, I'll try to upload them more often, even the most useless ones.
+
+PS: If the .ipynb doesn't appear, remember to use nbviewer.org and copy and paste the notebook's URL.
+
+I exported the notebook with the complete output of my dataset, which means it's a long page. I'll upload a shortened version of the notebook soon.
