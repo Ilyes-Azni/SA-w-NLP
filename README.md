@@ -15,3 +15,5 @@ Dans le cas de ce projet, on identifie un dataset textuel, qui traîte de ciném
 Ce projet est une lecture seulement, sous forme de jupyter notebook. Servez vous du code avec plaisir pour ceux qui en auront l'envie! 
 
 Bonne lecture ;) ! a + pour de nouveaux projets, j'essaierai d'en upload plus souvent, même les plus inutiles.
+
+PS : si le .ipynb n'apparaît pas, pensez à passer par nbviewer.org et copy paste l'url du notebook
